@@ -1,5 +1,6 @@
+![image](https://github.com/mukundbankar/University-Graduate-Employment-Analysis/assets/62957131/dc59a58c-4132-4835-be37-7dac79c8c401)
 
-![image](https://github.com/mukundbankar/University-Graduate-Employment-Analysis/assets/62957131/26d7f383-b06b-4a8a-8284-6ee55b94c57c)
+
 **Raw Data Extraction:**
 The process started with loading `students.csv` and `majors.csv` into MySQL Workbench. Next, a Python script
 was written to export these datasets from MySQL as CSV files and then upload them to Google Cloud Storage. The
